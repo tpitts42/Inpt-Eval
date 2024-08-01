@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PT Evaluation </title>
+</head>
+<body>
+    <h1>PT Evaulation</h1>
+
+    <form>
+      <h3>Objective:</h3>
+        <label for="bloodPressure">Blood Pressure:</label>
+        <input type="text" id="bloodPressure" name="bloodPressure"><br><br>
+
+        <label for="heartRate">HR:</label>
+        <input type="text" id="heartRate" name="heartRate"><br><br>
+
+        <label for="saO2">SaO2%:</label>
+        <input type="text" id="saO2" name="saO2"><br><br>
+
+        <label for="respiratoryRate">RR:</label>
+        <input type="text" id="respiratoryRate" name="respiratoryRate"><br><br>
+
+        <label for="map">MAP:</label>
+        <input type="text" id="map" name="map"><br><br>
+
+        <label for="walkingDistance">Walking distance:</label>
+        <input type="text" id="walkingDistance" name="walkingDistance"><br><br>
+
+        <label for="deviceUsed">Device used:</label>
+        <input type="text" id="deviceUsed" name="deviceUsed"><br><br>
+
+        <h3>Balance Assessment</h3>
+        <p>Static Seated Balance:</p>
+        <button type="button">Poor</button>
+        <button type="button">Fair -</button>
+        <button type="button">Fair</button>
+        <button type="button">Fair +</button>
+        <button type="button">Good</button>
+        <button type="button">Normal</button>
+        <button type="button">Not Tested</button>
+
+        <p>Dynamic Seated Balance:</p>
+        <button type="button">Poor</button>
+        <button type="button">Fair -</button>
+        <button type="button">Fair</button>
+        <button type="button">Fair +</button>
+        <button type="button">Good</button>
+        <button type="button">Normal</button>
+        <button type="button">Not Tested</button><br><br>
+
+        <p>Static Standing Balance:</p>
+        <button type="button">Poor</button>
+        <button type="button">Fair -</button>
+        <button type="button">Fair</button>
+        <button type="button">Fair +</button>
+        <button type="button">Good</button>
+        <button type="button">Normal</button>
+        <button type="button">Not Tested </button><br><br>
+
+        <p>Dynamic Standing Balance:</p>
+        <button type="button">Poor</button>
+        <button type="button">Fair -</button>
+        <button type="button">Fair</button>
+        <button type="button">Fair +</button>
+        <button type="button">Good</button>
+        <button type="button">Normal</button>
+        <button type="button">Not Tested</button><br><br>
+
+        <button type="button">Create</button><br><br>
+
+        <textarea rows="10" cols="50" placeholder="Additional notes..."></textarea>
+    </form>
+</body>
+</html>
