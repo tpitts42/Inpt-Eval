@@ -1,0 +1,34 @@
+
+
+</p> Objective Measures: </p>
+</p> Blood Pressure = <input type = "text" </p>
+</p> HR = <input type = "text" </p>
+</p> SaO2% = <input type = "text" </p>
+</p> RR = <input type = "text" </p>
+</p> MAP = <input type = "text" </p> <br/> <br/> <br/>
+
+                 
+</p> Walking distance = <input type = "text6" </p>
+</p> Device used = <input type = "text7" </p> <br/> <br/> <br/>
+
+</p> Static Seated Balance = <button type="button"> Poor </button> <button type="button">Fair - </button> <button type="button"> Fair </button> <button type="button"> Fair + </button> <button type="button"> Good </button> <button type="button"> Normal </button>
+</p> Dynamic Seated Balance = <button type="button"> Poor </button> <button type="button">Fair - </button> <button type="button"> Fair </button> <button type="button"> Fair + </button> <button type="button"> Good </button> <button type="button"> Normal </button>
+</p> Static Standing balance = <button type="button"> Poor </button> <button type="button">Fair - </button> <button type="button"> Fair </button> <button type="button"> Fair + </button> <button type="button"> Good </button> <button type="button"> Normal </button>
+</p> Dynamic Standing Balance = <button type="button"> Poor </button> <button type="button">Fair - </button> <button type="button"> Fair </button> <button type="button"> Fair + </button> <button type="button"> Good </button> <button type="button"> Normal </button>
+<br/> <br/> <br/> 
+
+<button type="button"> Create </button> 
+<br/> <br/> <br/> 
+
+<textarea></textarea>
+
+
+
+
+
+
+
+
+
+
+
