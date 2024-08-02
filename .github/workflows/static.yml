@@ -41,5 +41,5 @@ jobs:
           path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
-        run: index.html
+        uses: actions/deploy-pages@v4
         
